@@ -1,4 +1,3 @@
-```markdown
 # Fantastic Screenshot Tool
 
 A personalized Python-based screenshot tool for capturing specific screen regions.
@@ -47,5 +46,3 @@ This script provides a simple graphical interface to:
 ## Note
 
 This is a personal use script and may not have all the features of full-fledged screenshot applications.
-
-```
